@@ -1,6 +1,8 @@
 # Measure-the-distance
 ### A system that measure the distance using ultrasonic sensor
 ### This video will show running the project on Proteus Simulation after the HEX file has been burned [Link is here]( https://drive.google.com/file/d/11d5FunRoKqSZ9WZRqXt_ZJUr0cGunEIO/view?usp=sharing)
+### This video will show running the project hardware connection on the ATmega32 microcontroller after the HEX file has been burned [Link is here]( https://drive.google.com/file/d/1bFbXQSquiECgoIDwerzYOsGACTeOiZLR/view?usp=sharing)
+
 #### System Requirements below is the picture.
 Implement the following system to measure the distance using an ultrasonic sensor HC-SR04 with the specifications :
 
